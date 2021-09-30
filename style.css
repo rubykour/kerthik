@@ -1,0 +1,193 @@
+body{
+margin:0;
+padding-top:px;
+}
+.Profile{
+width:700px;
+border-radius:30%;
+margin-bottom:50px;
+padding-top: 60px;
+}
+h1{
+font-size:50;
+line-height:1.2;
+font-weight:300;
+font-family: monospace;
+}
+#Welcome{
+height: 800px;
+color: ;
+left: 0;
+right: 0;
+bottom: 0;
+top: 0;
+background-color:skyblue;
+display: table;
+height: 100%;
+width: 100%;
+}
+.Inner{
+display: table-cell;
+text-align: center;
+vertical-align: middle;
+}
+#Bio{
+padding: 50px;
+text-align: center;
+font-size: 42px;
+}
+p{
+font-size: 20px;
+margin: 25px auto;
+max-width: 550px;
+line-height: 1.3;
+}
+.Menu{
+position: fixed;
+background-color: skyblue;
+width:100%;
+top:0px;
+z-index: 10;
+margin-top: 0px;
+}
+.Link{
+float: left;
+color:white;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 9px;
+padding-right: 9px;
+font-family: monospace;
+font-size:20px;
+list-style:none;
+}
+.Link:hover{
+font-size: 30px;
+}
+.Link a{
+text-decoration: none;
+color: aliceblue;
+}
+#Videos{
+text-align: center;
+background-color: aliceblue;
+}
+#Maps{
+text-align: center;
+}
+#Discription{
+text-align: center;
+background-color: aliceblue;
+}
+h1{
+font-size: 30px;
+}
+#Discription a{
+color:darkmagenta;
+font-size: 30px;
+text-decoration: none;
+}
+
+}
+
+#map iframe
+{
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+#footer{
+  height: 20px;
+  background-color:white;
+  }
+
+input
+{
+    background: grey
+}
+
+.announcement{
+background-color:#337ab7;
+width: 100%;
+height: 30px;
+}
+
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:100px;
+  color: beige;
+  font-size:120%;
+}
+
+#video{
+  width:100%;
+  height:500px;
+  border: none;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+#achievementsID{
+ padding-bottom: 10px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
